@@ -19,6 +19,5 @@
 *.bat
 
 # user defined configuration
-config.mk
 config.mk-msc
 
